@@ -74,10 +74,10 @@
     </header>
 
     <section>
-        <h2>Unlock Your Business's Online Potential</h2>
-        <p>Welcome to Digital Marketing Agency, where we transform businesses through innovative digital marketing strategies...</p>
+        <h2>Unlock Your Business Online Potential</h2>
+        <p>Welcome to Digital Marketing Agency, where we transform business through innovative digital marketing strategies.</p>
 
-        <h3>Why Choose Digital Marketing Agency  ?</h3>
+        <h3>Why Choose Digital Marketing Agency?</h3>
         <ul>
             <li><strong>Proven Results:</strong> See real, measurable results with our data-driven approach.</li>
             <li><strong>Customized Strategies:</strong> Tailored digital marketing strategies to fit your specific goals.</li>
